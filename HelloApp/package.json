@@ -1,0 +1,19 @@
+{
+  "name": "helloapp",
+  "version": "1.0.0",
+  "description": "demo_node_webkit",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "width": 800,
+    "height": 600
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "webnodekit"
+  ],
+  "author": "doa9595@gmail.com",
+  "license": "ISC"
+}
